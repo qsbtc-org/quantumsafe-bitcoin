@@ -1,3 +1,18 @@
+# QuantumSafe Bitcoin (QSBTC)
+
+QSBTC stands for **QuantumSafe Bitcoin**. It represents a community-driven initiative dedicated to enhancing Bitcoin by addressing the growing need for quantum safety. As enthusiasts of Bitcoin, we are passionate about improving its resilience against emerging quantum computing threats.
+
+## Our Focus
+- **Quantum Resistance:** Ensuring Bitcoin's cryptography remains secure in a post-quantum world.
+- **Community Collaboration:** Leveraging the collective expertise of Bitcoin lovers and experts.
+- **Innovation:** Exploring and integrating advanced cryptographic techniques to safeguard Bitcoin.
+
+---
+
+### Original Content from BitcoinCore
+*(Below is the original content from BitcoinCore for reference.)*
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
